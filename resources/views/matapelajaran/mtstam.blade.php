@@ -1,0 +1,11 @@
+<option value="">Matapelajaran</option>
+<option value="'Arudh dan Qafiyah'">'Arudh dan Qafiyah'</option>
+<option value="Adab dan Nusus">Adab dan Nusus</option>
+<option value="Balaghah">Balaghah</option>
+<option value="Fiqh">Fiqh</option>
+<option value="Hadith dan Mustolah">Hadith dan Mustolah</option>
+<option value="Hifz al-Quran Tajwid">Hifz al-Quran Tajwid</option>
+<option value="Insya' dan Mutala'ah">Insya' dan Mutala'ah</option>
+<option value="Nahu dan Sarf">Nahu dan Sarf</option>
+<option value="Tafsir dan Ulumuhu">Tafsir dan Ulumuhu</option>
+<option value="Tauhid dan Mantiq">Tauhid dan Mantiq</option>

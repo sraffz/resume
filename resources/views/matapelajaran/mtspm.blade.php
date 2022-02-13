@@ -1,0 +1,15 @@
+<option value="">MATAPELAJARAN</option>
+<option value="PENDIDIKAN ISLAM">PENDIDIKAN ISLAM</option>
+<option value="MATEMATIK TAMBAHAN">MATEMATIK TAMBAHAN</option>
+<option value="SAINS">SAINS</option>
+<option value="FIZIK">FIZIK</option>
+<option value="KIMIA">KIMIA</option>
+<option value="BIOLOGI">BIOLOGI</option>
+<option value="PENDIDIKAN AKAUN">PENDIDIKAN AKAUN</option>
+<option value="PENDIDIKAN AL-QURAN DAN SUNNAH">PENDIDIKAN AL-QURAN DAN SUNNAH</option>
+<option value="PENDIDIKAN SYARIAH DAN ISLAMIAH">PENDIDIKAN SYARIAH DAN ISLAMIAH</option>
+<option value="EKONOMI ASAS">EKONOMI ASAS</option>
+<option value="BAHASA ARAB">BAHASA ARAB</option>
+<option value="TASSAWUR ISLAM">TASSAWUR ISLAM</option>
+<option value="PERNIAGAAN">PERNIAGAAN</option>
+<option value="GRAFIK KOMUNIKASI TEKNIKAL">GRAFIK KOMUNIKASI TEKNIKAL</option>
